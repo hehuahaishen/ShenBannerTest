@@ -1,0 +1,2 @@
+include ':app', ':ShenBanner'
+project(':ShenBanner').projectDir = new File('libraries/ShenBanner')

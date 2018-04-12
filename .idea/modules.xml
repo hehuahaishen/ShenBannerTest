@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraries/ShenBanner/ShenBanner.iml" filepath="$PROJECT_DIR$/libraries/ShenBanner/ShenBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShenBannerTest.iml" filepath="$PROJECT_DIR$/ShenBannerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
